@@ -23,3 +23,6 @@ El juego de Solitario se iniciará y podrás comenzar a jugar. ¡Diviértete!
 
 ## Contribuciones
 Las contribuciones al proyecto son bienvenidas. Si deseas colaborar, por favor consulta nuestra guía de contribución para obtener más información.
+
+## Esta es una captura de pantalla del juego:
+![image](https://github.com/GabriellyFerreiraa/solitaire-game/assets/105613058/b4a81db3-a0a9-4874-81b5-f4fff495892b)
